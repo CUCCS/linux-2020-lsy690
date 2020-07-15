@@ -25,7 +25,7 @@
 
   视频网址
 
-  [vimtutor操作录像](https://asciinema.org/connect/e036dcb9-f8d0-4466-b30a-a1db688669ff)
+  [vimtutor操作录像](https://asciinema.org/a/L4GW8PZgUD02sy2pRvl0jGR4t)
  
 ## vimtutor完成后的自查清单
 你了解vim有哪几种工作模式？
