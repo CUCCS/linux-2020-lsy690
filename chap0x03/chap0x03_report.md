@@ -2,11 +2,11 @@
 ## 实验准备
 Ubuntu 18.04.4 server 64bit
 asciinema用于录屏
-## 录屏（有问题）
-![](录屏错误.png)
-![](录屏错误2.png)
-
-### 这个录屏我整理了两次，第一次是一直不出现网址，我用Ctrl+c退出了，第二次我的用户名好像被改变了，然后录屏也是不成功，出现了上面那种情况，我就把截屏截了下来，这个问题还没解决。
+## 录屏
+[命令篇1](https://asciinema.org/a/ohWWyR2Wg7UFgMaJh8aJ3FgeZ)
+[命令篇2](https://asciinema.org/a/Pyid4Wkspdaqn7hB0GyvVbWGk)
+[实战篇](https://asciinema.org/a/Mzckzm5Y23g2KBZMpwaZsPzo4)
+  命令篇较长，所以分成了两段
 
 ## 自查清单
 ### 1.如何添加一个用户并重新实现sudo执行程序权限？
